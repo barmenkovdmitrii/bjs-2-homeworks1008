@@ -5,7 +5,9 @@ function solveEquation(a, b, c) {
   if (d < 0) {
 
   }
+ else if (d > 0) {
 
+  }
   return arr; // array
 }
 
