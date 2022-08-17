@@ -22,7 +22,7 @@ for ( let i = 0; i < arr.length; i++) {
 // Задание 2
 function worker(arr) {
   let sum = 0;
-for (let i = 0; i < arr.length[i]; i++) {
+  for (let i = 0; i < arr.length[i]; i++) {
   sum += arr[i];
 }
   // Ваш код
